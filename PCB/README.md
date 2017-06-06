@@ -14,14 +14,18 @@ The schematic view of the LED multiplexing circuit:
 The PCB (Two layer):
 
 Top layer PCB view:
+
 ![top pcb](https://cloud.githubusercontent.com/assets/978364/26768223/388f4e2a-495b-11e7-84c7-0b7f1095eb1a.PNG)
 
 Top layer view from the manufacturer (OshPark):
+
 ![image](https://cloud.githubusercontent.com/assets/978364/26767901/d2bb2684-4958-11e7-8a0e-c9e226c17802.png)
 
 Bottom layer PCB view:
+
 ![top pcb](https://cloud.githubusercontent.com/assets/978364/26768228/404d49aa-495b-11e7-9248-36d65b4d8a98.PNG)
 
 Bottom layer view from the manufacturer:
+
 ![image](https://cloud.githubusercontent.com/assets/978364/26767925/025f188c-4959-11e7-8742-422b03f9ee6a.png)
 
