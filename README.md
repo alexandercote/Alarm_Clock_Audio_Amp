@@ -3,6 +3,8 @@ Design class project where I worked in a group of 3 to implement a music playing
 Features included displaying time on a 7 segment display, alarm buttons, snooze, ability to change time
 and volume control. 
 
+Each subfolder has README's describing the logic behind the decision and pictures demonstrating the contents of the files.
+
 Alarm clock functionality:
 - Change the displayed time, date, and alarm time.
 - LED's indicate what mode you are currently in. 
