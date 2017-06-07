@@ -23,8 +23,7 @@ Top layer view from the manufacturer (OshPark):
 
 Bottom layer PCB view:
 
-![top pcb](https://cloud.githubusercontent.com/assets/978364/26768228/404d49aa-495b-11e7-9248-36d65b4d8a98.PNG)
-
+![bottom pcb](https://user-images.githubusercontent.com/978364/26862578-51b55e74-4b01-11e7-9224-d36532422bea.PNG)
 Bottom layer view from the manufacturer:
 
 ![image](https://cloud.githubusercontent.com/assets/978364/26767925/025f188c-4959-11e7-8742-422b03f9ee6a.png)
