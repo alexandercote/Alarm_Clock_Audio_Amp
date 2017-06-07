@@ -1,4 +1,4 @@
-# The circuit:
+# The Circuit
 
 Design Limitation:
   -Have the following capacitors: 1nF, 10uF, 470uF and 100 nF
