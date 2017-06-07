@@ -1,6 +1,6 @@
 # The Circuit
 
-Design Limitation:
+###### Design Limitation:
   -Have the following capacitors: 1nF, 10uF, 470uF and 100 nF
   -Resistors: 5% Resistors.
   -Input Voltage for audio input: [0-3V], DC voltage = 1.5V, with AC voltage = ± 0.3V. 
@@ -10,7 +10,7 @@ Design Limitation:
 Schematic view of the top hierarchy view, including push button debouncing, with an audio amplifier and LED multiplexer in lower hierarchy schematics.
 ![image](https://cloud.githubusercontent.com/assets/978364/26767795/f4711cda-4957-11e7-9208-0f26988bc92c.png)
 
-Audio Amplifier:
+###### Audio Amplifier:
   -Cascaded Low-Pass and High-Pass Filter to create a BandPass Filter with a pass band of 19.85Hz to 19.4kHz
   -Using the LM386 without its gain pins connected will result in a voltage gain of 20. Since (20 * 0.5V) = 10V, which is higher than 
    our source voltage, we need to voltage divide the input of LM386. (0.5V is the maximum input AC swing). Here, we chose a maximum 
